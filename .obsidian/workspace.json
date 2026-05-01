@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "e1481dea849f25c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e3661939bf6dc87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ae9bd3fa0656974",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CS257/3b - Compiler Optimisations and Parallelism.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3b - Compiler Optimisations and Parallelism"
+            }
+          },
+          {
+            "id": "cdc8ca83de1931c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS241/OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae6445212cabd9a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "931366f373826c6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ab7e4cc34a5de76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "87a85604228a13b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1dce68214c54c1d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8889045c4cf97111",
+    "type": "split",
+    "children": [
+      {
+        "id": "b137921b19c07967",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8cfbd9d8f2c57e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4129b542395cdf66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c86e9a8360dc485c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7480ea44fb4ba339",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "790f830064a8a69f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6ae9bd3fa0656974",
+  "lastOpenFiles": [
+    "CS257/3a - Code Optimisation and Code Refactoring-1.pdf",
+    "CS259/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf",
+    "CS257/3b - Compiler Optimisations and Parallelism.pdf",
+    "CS257/addressing_modes.png",
+    "CS257/memory_alignment.png",
+    "CS257/Processor Organization.md",
+    "CS257/Code Optimization.md",
+    "CS241/Packet Delay.png",
+    "CS241/RoundRobin.png",
+    "CS258/Introduction to database systems.md",
+    "CS241/Networks.md",
+    "CS241/OS.md",
+    "CS262/Normal Form Algorithims.md",
+    "CS257/Pipelining.md",
+    "CS257/Memory.md",
+    "CS257/introduction to Advanced Computer Architecture.md",
+    "CS257/Cache memory.md",
+    "CS241/CPUSwitching.png",
+    "CS241/Networks.md.tmp.35779.1776868783840",
+    "CS241/OS.md.tmp.35779.1776868782357",
+    "CS262/Normal Form Algorithims.md.tmp.35779.1776868780860",
+    "CS262/Logic and Verification.md.tmp.35779.1776868779218",
+    "CS257/Code Optimization.md.tmp.35779.1776868775115",
+    "CS257/Processor Organization.md.tmp.35779.1776868775033",
+    "CS257/Pipelining.md.tmp.35779.1776868772375",
+    "CS257/Cache memory.md.tmp.35779.1776868764146",
+    "Untitled.canvas",
+    "CS241/Processes.md",
+    "2026-04-05.md",
+    "Untitled.md",
+    "CS259/Context Free Grammars.md",
+    "Plan.md",
+    "CS262/Logic and Verification.md",
+    "CS275/are the goyim human.md",
+    "Welcome.md",
+    "CS259/Regular expressions.md",
+    "CS259/Pushdown automata.md",
+    "CS259/Nonregular Languages.md",
+    "CS259/introduction to Formal Languages.md",
+    "CS259/Pasted image 20260210195945.png",
+    "CS259/Exercise sheet 1.md",
+    "CS259/Screenshot from 2026-02-09 18-17-26.png",
+    "CS259/NFA.md",
+    "create a link.md",
+    "CS262/Pasted image 20260115161534.png"
+  ]
+}

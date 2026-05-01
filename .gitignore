@@ -1,0 +1,7 @@
+# Textbooks & slides
+*.pdf
+*.pptx
+*.ppt
+
+# Obsidian
+.obsidian/workspace-mobile.json
