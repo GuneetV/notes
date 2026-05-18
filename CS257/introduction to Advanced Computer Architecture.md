@@ -57,5 +57,4 @@ Persistent memory/Storage
 - [[Processor Organization]]
 - [[Pipelining]]
 - [[Memory]]
-- [[Cache memory]]
 - [[Code Optimization]]

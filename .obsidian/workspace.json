@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6e3661939bf6dc87",
+        "id": "6ac8416638648c7c",
         "type": "tabs",
         "children": [
           {
-            "id": "6ae9bd3fa0656974",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CS257/3b - Compiler Optimisations and Parallelism.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "3b - Compiler Optimisations and Parallelism"
-            }
-          },
-          {
-            "id": "cdc8ca83de1931c5",
+            "id": "a6136bfec4111364",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS241/OS.md",
+                "file": "CS259/Regular expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OS"
+              "title": "Regular expressions"
+            }
+          },
+          {
+            "id": "b146a82f249f6870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS257/Virtual memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virtual memory"
             }
           }
         ]
@@ -192,25 +194,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ae9bd3fa0656974",
+  "active": "a6136bfec4111364",
   "lastOpenFiles": [
-    "CS257/3a - Code Optimisation and Code Refactoring-1.pdf",
-    "CS259/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf",
-    "CS257/3b - Compiler Optimisations and Parallelism.pdf",
-    "CS257/addressing_modes.png",
-    "CS257/memory_alignment.png",
+    "CS259/Revision lecture.md",
+    "CS259/Pushdown automata.md",
+    "CS259/Pasted image 20260210195945.png",
+    "CS259/introduction to Formal Languages.md",
+    "CS259/NFA.md",
+    "CS259/Context Free Grammars.md",
+    "CS257/Virtual memory.md",
+    "CS257/Memory.md",
+    "CS257/Revision lecture.md",
     "CS257/Processor Organization.md",
+    "CS257/Pipelining.md",
+    "CS257/memory_alignment.png",
+    "CS257/introduction to Advanced Computer Architecture.md",
+    "CS257/Cache memory.md",
+    "CS257/addressing_modes.png",
+    "CS257/3a - Code Optimisation and Code Refactoring-1.pdf",
     "CS257/Code Optimization.md",
+    "CS275/Chapter 2.md",
+    "CS258/Intro to SQL.md",
+    "CS258/Introduction to database systems.md",
+    "CS257/3b - Compiler Optimisations and Parallelism.pdf",
+    "CS259/Sipser_Introduction.to.the.Theory.of.Computation.3E.pdf",
     "CS241/Packet Delay.png",
     "CS241/RoundRobin.png",
-    "CS258/Introduction to database systems.md",
     "CS241/Networks.md",
     "CS241/OS.md",
     "CS262/Normal Form Algorithims.md",
-    "CS257/Pipelining.md",
-    "CS257/Memory.md",
-    "CS257/introduction to Advanced Computer Architecture.md",
-    "CS257/Cache memory.md",
     "CS241/CPUSwitching.png",
     "CS241/Networks.md.tmp.35779.1776868783840",
     "CS241/OS.md.tmp.35779.1776868782357",
@@ -219,25 +231,15 @@
     "CS257/Code Optimization.md.tmp.35779.1776868775115",
     "CS257/Processor Organization.md.tmp.35779.1776868775033",
     "CS257/Pipelining.md.tmp.35779.1776868772375",
-    "CS257/Cache memory.md.tmp.35779.1776868764146",
     "Untitled.canvas",
     "CS241/Processes.md",
     "2026-04-05.md",
-    "Untitled.md",
-    "CS259/Context Free Grammars.md",
     "Plan.md",
     "CS262/Logic and Verification.md",
     "CS275/are the goyim human.md",
     "Welcome.md",
     "CS259/Regular expressions.md",
-    "CS259/Pushdown automata.md",
-    "CS259/Nonregular Languages.md",
-    "CS259/introduction to Formal Languages.md",
-    "CS259/Pasted image 20260210195945.png",
-    "CS259/Exercise sheet 1.md",
     "CS259/Screenshot from 2026-02-09 18-17-26.png",
-    "CS259/NFA.md",
-    "create a link.md",
     "CS262/Pasted image 20260115161534.png"
   ]
 }
